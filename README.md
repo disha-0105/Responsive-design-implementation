@@ -18,3 +18,4 @@ OUTPUT :
 
 [Responsive webpage.zip](https://github.com/user-attachments/files/19165819/Responsive.webpage.zip)
 
+![Image](https://github.com/user-attachments/assets/33ff0753-fecd-41c3-8ecb-50321ac4e7ef)
